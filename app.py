@@ -25,7 +25,14 @@ st.set_page_config(
     page_icon="🛃"
 )
 
-st.title('Sentiment Ananlysis of Amazon Customer Reviews')
+st.title('Sentiment Analysis App')
+
+
+
+
+
+
+
 
 
 
