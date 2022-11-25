@@ -25,6 +25,9 @@ st.set_page_config(
     page_icon="🛃"
 )
 
+st.title('Sentiment Ananlysis of Amazon Customer Reviews')
+
+
 
 
 def get_sentiment(c1,c2,c3):
